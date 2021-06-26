@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/about-project/static/css/main.689b27ee.chunk.css",
+    "main.js": "/about-project/static/js/main.83c186f0.chunk.js",
+    "main.js.map": "/about-project/static/js/main.83c186f0.chunk.js.map",
+    "runtime-main.js": "/about-project/static/js/runtime-main.fa8f2bd6.js",
+    "runtime-main.js.map": "/about-project/static/js/runtime-main.fa8f2bd6.js.map",
+    "static/js/2.743dcd51.chunk.js": "/about-project/static/js/2.743dcd51.chunk.js",
+    "static/js/2.743dcd51.chunk.js.map": "/about-project/static/js/2.743dcd51.chunk.js.map",
+    "index.html": "/about-project/index.html",
+    "static/css/main.689b27ee.chunk.css.map": "/about-project/static/css/main.689b27ee.chunk.css.map",
+    "static/js/2.743dcd51.chunk.js.LICENSE.txt": "/about-project/static/js/2.743dcd51.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/about-project/static/media/learning-analytics-klass.88ffc435.png",
+    "static/media/App.css": "/about-project/static/media/zespol.96a38c1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa8f2bd6.js",
+    "static/js/2.743dcd51.chunk.js",
+    "static/css/main.689b27ee.chunk.css",
+    "static/js/main.83c186f0.chunk.js"
+  ]
+}
